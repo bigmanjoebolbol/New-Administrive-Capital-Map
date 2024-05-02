@@ -1,0 +1,2 @@
+C:/Users/hp/Documents/GitHub/New-Administrive-Capital-Map/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hp/Documents/GitHub/New-Administrive-Capital-Map/cmake-build-debug/CMakeFiles/rebuild_cache.dir
