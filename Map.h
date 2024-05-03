@@ -1,7 +1,3 @@
-//
-// Created by hp on 5/3/2024.
-//
-
 #ifndef NEW_ADMINISTRIVE_CAPITAL_MAP_MAP_H
 #define NEW_ADMINISTRIVE_CAPITAL_MAP_MAP_H
 
