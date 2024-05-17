@@ -1,1 +1,1 @@
-add_executable(new_target Map.cpp)
+add_executable(new_target Djikstra.cpp)
